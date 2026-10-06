@@ -1,0 +1,13 @@
+{
+  "name": "bomb-state-machine-switch",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "3.9.9"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
